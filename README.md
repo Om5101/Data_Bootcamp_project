@@ -36,19 +36,20 @@
 
 <br>
 
-![Episode 4 - Dashboard_page-0001](https://github.com/user-attachments/assets/eb3119e3-5f7c-4842-8026-a9f63dee395f)  
+![Episode 4 - Dashboard_page-0001](https://github.com/user-attachments/assets/893fd03a-af77-44ab-8853-8cb2fea6d60c)
+
 
 <br><br>
 
-![Episode 4 - Dashboard_page-0003](https://github.com/user-attachments/assets/3dba1adb-b061-494d-8706-7c5232fba90f)  
+![Episode 4 - Dashboard_page-0002](https://github.com/user-attachments/assets/5bd03bda-c4ab-4210-9afe-9b73f99fce92)
+  
+<br><br>
+
+![Episode 4 - Dashboard_page-0003](https://github.com/user-attachments/assets/9cb89fbe-473e-4c8c-9efc-40e9ebe0c6b9)
 
 <br><br>
 
-![Episode 4 - Dashboard_page-0002](https://github.com/user-attachments/assets/66add79c-f889-4554-a8e6-1a9e046d25f8)  
-
-<br><br>
-
-![Episode 4 - Dashboard_page-0004](https://github.com/user-attachments/assets/1f60da87-91e3-43e4-8490-0b1bee3f13b3)  
+![Episode 4 - Dashboard_page-0004](https://github.com/user-attachments/assets/dc3c5f8f-9811-4934-b73c-12f9a4a12833)
 
 ---
 
