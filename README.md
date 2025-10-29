@@ -44,14 +44,6 @@ Leveraging your hands-on CRM experience, this project simulates how real-world C
 
 <br><br>
 
-![2_Marketing-Managers-Perspective](https://github.com/user-attachments/assets/7134722d-1a69-4aef-b830-c0eca2d008ee)  
-
-<br><br>
-
-![3_Customer-Experience-Managers-Thoughts](https://github.com/user-attachments/assets/1ea89036-fa89-49e0-b4a3-f93a17e478e2)  
-
-<br><br>
-
 ![4_Key-Performance-Indicators-KPIs](https://github.com/user-attachments/assets/a16272f3-1ea7-4e66-83ea-7fd161fc03d5)  
 
 <br><br>
@@ -77,9 +69,6 @@ Leveraging your hands-on CRM experience, this project simulates how real-world C
   
 <br><br>
 
-![Episode 4 - Dashboard_page-0003](https://github.com/user-attachments/assets/9cb89fbe-473e-4c8c-9efc-40e9ebe0c6b9)
-
-<br><br>
 
 ![Episode 4 - Dashboard_page-0004](https://github.com/user-attachments/assets/dc3c5f8f-9811-4934-b73c-12f9a4a12833)
 
