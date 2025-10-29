@@ -65,10 +65,6 @@ Leveraging your hands-on CRM experience, this project simulates how real-world C
 
 <br><br>
 
-![Episode 4 - Dashboard_page-0002](https://github.com/user-attachments/assets/5bd03bda-c4ab-4210-9afe-9b73f99fce92)
-  
-<br><br>
-
 
 ![Episode 4 - Dashboard_page-0004](https://github.com/user-attachments/assets/dc3c5f8f-9811-4934-b73c-12f9a4a12833)
 
