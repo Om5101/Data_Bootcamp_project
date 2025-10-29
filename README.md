@@ -1,10 +1,35 @@
-<div align="center">
-
-# 📊 Project Case Study
+# 📊 CRM Data Insights Project  
+**Data Analytics | SQL | Python | Sentiment Analysis**
 
 ---
 
-## **INTRODUCTION : Business Problem and Stakeholder's View Points**
+## 🧠 Overview  
+Customer ratings alone rarely capture the *true voice of the customer*.  
+This project bridges that gap by integrating **ratings data** with **sentiment analysis** of customer reviews to generate a more accurate **Compound Rating Score** — enabling management teams to make data-driven decisions.
+
+Leveraging your hands-on CRM experience, this project simulates how real-world CRM datasets can be analyzed to derive **customer satisfaction, churn prediction, and geographical trends**.
+
+---
+
+## 🚀 Key Objectives  
+- Identify shortcomings in conventional rating systems.  
+- Combine textual reviews + numerical ratings to compute a **Compound Sentiment Score**.  
+- Classify customers into three simple, actionable segments:  
+  - 🟢 *Happy Customers*  
+  - 🟡 *Neutral Customers*  
+  - 🔴 *Dissatisfied Customers*  
+- Generate insights for management dashboards — easy to visualize & interpret.  
+
+---
+
+## 🧩 Tech Stack  
+
+| Category | Tools & Libraries |
+|-----------|------------------|
+| **Database** | MySQL |
+| **Language** | Python |
+| **Libraries** | pandas, nltk (VADER Sentiment) |
+
 
 <br>
 
