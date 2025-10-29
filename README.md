@@ -1,5 +1,6 @@
 # 📊 CRM Data Insights Project  
 **Data Analytics | SQL | Python | Sentiment Analysis**
+![dataproject](https://github.com/user-attachments/assets/541d7df7-b792-4d53-a3ac-07afcd68cb4f)
 
 ---
 
@@ -7,7 +8,11 @@
 Customer ratings alone rarely capture the *true voice of the customer*.  
 This project bridges that gap by integrating **ratings data** with **sentiment analysis** of customer reviews to generate a more accurate **Compound Rating Score** — enabling management teams to make data-driven decisions.
 
+<img width="1250" height="530" alt="DataProject2" src="https://github.com/user-attachments/assets/bb11403a-16cc-429b-93d2-3869c2b9ac2a" />
+
 Leveraging your hands-on CRM experience, this project simulates how real-world CRM datasets can be analyzed to derive **customer satisfaction, churn prediction, and geographical trends**.
+
+<img width="1620" height="583" alt="DataProject1" src="https://github.com/user-attachments/assets/1f734ee0-81d3-496d-a831-a660f90fb8ed" />
 
 ---
 
@@ -23,6 +28,8 @@ Leveraging your hands-on CRM experience, this project simulates how real-world C
 ---
 
 ## 🧩 Tech Stack  
+<img width="903" height="634" alt="Data Project Tables" src="https://github.com/user-attachments/assets/e69876c2-dcac-4dbe-9d59-f2863a7cfbb1" />
+
 
 | Category | Tools & Libraries |
 |-----------|------------------|
