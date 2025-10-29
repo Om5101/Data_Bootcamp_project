@@ -78,14 +78,6 @@ Leveraging your hands-on CRM experience, this project simulates how real-world C
 
 <br><br>
 
-![2_Conversion-Rate-Analysis](https://github.com/user-attachments/assets/1a98ffdb-94d7-4684-a1b9-9cc4076a7ac0)  
-
-<br><br>
-
-![3_Customer-Engagement-Declining-Trends](https://github.com/user-attachments/assets/d8711104-be73-413e-a59e-3fd98e17be0e)  
-
-<br><br>
-
 ![4_Customer-Feedback-Sentiment-and-Opportunities](https://github.com/user-attachments/assets/5b4f73c8-326b-428a-849a-ba4c72133fb5)  
 
 <br><br>
