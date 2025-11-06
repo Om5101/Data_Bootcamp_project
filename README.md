@@ -50,6 +50,8 @@ Leveraging my hands-on CRM experience, this project simulates how real-world CRM
 
 </div>
 
+## 🧩 Tables and views 
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e69876c2-dcac-4dbe-9d59-f2863a7cfbb1" alt="Data Project Tables" width="700">
 </p>
