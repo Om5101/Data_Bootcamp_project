@@ -40,12 +40,15 @@ Leveraging my hands-on CRM experience, this project simulates how real-world CRM
 ---
 
 ## 🧩 Tech Stack  
-  
+<div align="center">
+
 | Category | Tools & Libraries |
 |-----------|------------------|
 | **Database** | MySQL |
 | **Language** | Python |
 | **Libraries** | pandas, nltk (VADER Sentiment) |
+
+</div>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e69876c2-dcac-4dbe-9d59-f2863a7cfbb1" alt="Data Project Tables" width="700">
