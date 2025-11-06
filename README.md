@@ -1,5 +1,11 @@
 # 📊 CRM Data Insights Project  
 
+## 👤 Author  
+
+**Om Shinde**  
+📍 MCA Student — SPIT, Mumbai  
+💼 Ex-CRM Administrator (Nayan Pokharkar & Associates)
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/541d7df7-b792-4d53-a3ac-07afcd68cb4f" alt="dataproject" width="900">
 </p>
@@ -105,13 +111,7 @@ This project demonstrates how **SQL + Python (NLP)** can work together to uncove
 By calculating a **Compound Rating** using both **numerical ratings** and **sentiment polarity**, the system provides management with a more holistic understanding of customer satisfaction — bridging the gap between data and decision-making.
 
 ---
-
-## 👤 Author  
-
-**Om Shinde**  
-📍 MCA Student — SPIT, Mumbai  
-💼 Ex-CRM Administrator (Nayan Pokharkar & Associates)  
-🔗 [LinkedIn](https://linkedin.com/in/omshinde5101) • [GitHub](https://github.com/Om5101)
+  
 
 ---
 
