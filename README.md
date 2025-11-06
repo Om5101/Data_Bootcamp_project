@@ -1,7 +1,5 @@
 # 📊 CRM Data Insights Project  
 
-## 👤 Author  
-
 **Om Shinde**  
 📍 MCA Student — SPIT, Mumbai  
 💼 Ex-CRM Administrator (Nayan Pokharkar & Associates)
