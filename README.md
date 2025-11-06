@@ -1,5 +1,4 @@
 # 📊 CRM Data Insights Project  
-**Data Analytics | SQL | Python | Sentiment Analysis**
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/541d7df7-b792-4d53-a3ac-07afcd68cb4f" alt="dataproject" width="900">
@@ -42,7 +41,7 @@ Leveraging my hands-on CRM experience, this project simulates how real-world CRM
   <img src="https://github.com/user-attachments/assets/e69876c2-dcac-4dbe-9d59-f2863a7cfbb1" alt="Data Project Tables" width="700">
 </p>
 
-<center>
+
   
 | Category | Tools & Libraries |
 |-----------|------------------|
@@ -51,7 +50,7 @@ Leveraging my hands-on CRM experience, this project simulates how real-world CRM
 | **Libraries** | pandas, nltk (VADER Sentiment) |
 
 
-</center>
+
 ---
 
 <p align="center">
